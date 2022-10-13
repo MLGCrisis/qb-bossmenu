@@ -9,4 +9,5 @@ Config.Jobs = {
     ['tuner'] = vector3(-606.81, -922.74, 23.89),
     ['realestate'] = vector3(-725.21, 259.61, 84.1),
     ['casino'] = vector3(946.8, 3.74, 75.74),
+    ['vanilla'] = vector3(95.36, -1293.61, 29.64),
 }
