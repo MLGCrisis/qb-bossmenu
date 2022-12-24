@@ -14,5 +14,5 @@ files {
     'html/assets/*',
 }
 
-shared_script '@qb-core/import.lua'
+--shared_script '@qb-core/import.lua'
 server_export "GetAccount"
